@@ -4,3 +4,4 @@ Write-Host "Hello $Username"
 Write-Host "Script complete"
 $date = Get-Date
 Write-Host "Today's date is $date"
+Write-Host "this is a new line"
